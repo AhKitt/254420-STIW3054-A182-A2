@@ -21,6 +21,7 @@ https://youtu.be/TcQSpOZUOEk
 
 3. Extracting text is one of the main features of the PDF box library. You can extract text using the getText() method of the PDFTextStripper class. This class extracts all the text from the given PDF document (https://www.tutorialspoint.com/pdfbox/pdfbox_reading_text.htm).
 
-4. Thread class provide constructors and methods to create and perform operations on a thread.Thread class extends Object class and implements Runnable interface.(https://www.javatpoint.com/creating-thread).
+4. Thread class provide constructors and methods to create and perform operations on a thread.Thread class extends Object class and implements Runnable interface
+(https://www.javatpoint.com/creating-thread).
 
 5. Marco Behler (2018 Sep). Creating A Maven Project From Scratch | Mastering Maven. Rtrieved from https://www.youtube.com/watch?v=a7libRN0pK0&t=560s
